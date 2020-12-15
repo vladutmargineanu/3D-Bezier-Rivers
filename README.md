@@ -1,1 +1,2 @@
-# 3D-Bezier-Rivers
+# SPG-Framework
+Laboratory framework for SPG
